@@ -1,6 +1,7 @@
 {
   "forceError": true,
   "errorMessage": "System error from remote control",
-  "killSwitch": false,
-  "lastUpdated": ""
+  "killSwitch": true,
+  "lastUpdated": "",
+  "killReason": "Emergency stop activated by controller"
 }
