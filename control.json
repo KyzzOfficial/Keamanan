@@ -1,5 +1,5 @@
 {
   "forceError": false,
   "errorMessage": "",
-  "killSwitch": false
+  "killSwitch": true
 }
