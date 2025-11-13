@@ -1,6 +1,6 @@
 {
-  "forceError": false,
-  "errorMessage": "",
+  "forceError": true,
+  "errorMessage": "System error from remote control",
   "killSwitch": false,
   "lastUpdated": ""
 }
